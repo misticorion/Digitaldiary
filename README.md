@@ -1,6 +1,6 @@
 # Digitaldiary
 
-It is basically a C++ program which uses the concept of Data structures and Files.
+It was my tweilth standard project which is basically a C++ program which uses the concept of Data structures and Files.
 
 INTRODUCTION -
 
